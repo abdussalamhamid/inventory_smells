@@ -4,5 +4,5 @@ class User {
 
   User({this.username, this.password});
 
-  void login(User user) {}
+  void login(username, password) {}
 }
